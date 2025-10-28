@@ -1,4 +1,6 @@
 # theumbrellagame.com : Fun Game
+To play the game jsut Google : theumbrellagame.com
+
 Created a fun game with the help of chatgpt
 # ☔ The Umbrella Game
 
